@@ -1,0 +1,12 @@
+{
+  "name"       : "Comrade Tweet",
+  "description": "Grab tweets tweeted at an organizational (PR) account && filter DM for tweets submitted for approval.",
+  "version"    : "0.0.0",
+  "browser_action" : {
+    "default_title": "Comrade Tweet",
+    "default_icon" : "images/icon.png",
+    "popup"        : "comrade_tweet.html"
+  },
+  "minimum_chrome_version": "5.0",
+  "permissions" : []
+}
